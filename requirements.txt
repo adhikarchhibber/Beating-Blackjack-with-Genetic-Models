@@ -1,0 +1,8 @@
+numpy>=2.0.0
+gym==0.25.2
+matplotlib
+matplotlib-inline
+PyVirtualDisplay==3.0
+torch==2.8.0
+numpngw==0.1.4
+pybullet==3.2.7
